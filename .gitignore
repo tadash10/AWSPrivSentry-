@@ -1,0 +1,10 @@
+# Python-specific
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Logs
+*.log
+
+# Virtual environment
+venv/
